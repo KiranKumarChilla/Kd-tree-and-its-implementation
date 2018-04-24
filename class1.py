@@ -2,7 +2,7 @@
 import operator
 import sys
 
-
+#It has basic implementation of Kd tree
 def inputarr():
  matrix = []
  count = 0
